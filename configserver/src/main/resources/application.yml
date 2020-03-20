@@ -10,10 +10,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/southwind9801/orderingsystem.git #git仓库地址
+          uri: https://github.com/yuxiang-git/orderingsystem.git #git仓库地址
           searchPaths: config #仓库路径
-          username: root #git仓库用户名
-          password: root #git仓库密码
+          username: yuxiang-git #git仓库用户名
+          password: chenYuxiang1225. #git仓库密码
       label: master #仓库的分支
 eureka:
   client:
